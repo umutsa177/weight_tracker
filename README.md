@@ -1,16 +1,10 @@
-# weight_tracker
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# weight_tracker with Flutter
+-- Uygulama açılınca ilk olarak karşımıza history sayfası çıkıyor.
+-- History sayfası boş ise;
+-- ![History_empty](https://user-images.githubusercontent.com/76686224/223469936-d6814e5c-335f-4f60-b5de-1e4b9ed666cd.png)
+--Yeni kayıt ekleme sayfası
+-- ![New_record](https://user-images.githubusercontent.com/76686224/223470264-e8713115-2c19-48d8-be74-f5f8aa2ced23.png)
+-- Yeni kayıtlar eklendiğinde history ekranı
+-- ![added_history_page](https://user-images.githubusercontent.com/76686224/223470542-a1b7fa1b-2b2a-4709-8757-3fdc52beedd2.png)
+-- Son olarak graphic sayfası
+-- ![graphic_page](https://user-images.githubusercontent.com/76686224/223470724-6c146706-2539-4a34-90aa-61d6c4ea784f.png)

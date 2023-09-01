@@ -1,7 +1,10 @@
 # weight_tracker with Flutter
-Uygulama açılınca ilk olarak karşımıza history sayfası çıkıyor.
---
 
+- Bu projede GetX paketini kullandım.
+- Mimari olarak MVVM kullandım.
+
+#Uygulama açılınca ilk olarak karşımıza history sayfası çıkıyor.
+--
 History sayfası boş ise;
 --
 ![History_empty](https://user-images.githubusercontent.com/76686224/223469936-d6814e5c-335f-4f60-b5de-1e4b9ed666cd.png)
